@@ -76,7 +76,6 @@
 #box-1 a:hover{
     background-color: var(--gridoneclr);
     color: var(--headingclr);
-    padding: 10px 20px;
     border: 2px solid var(--headingclr);
 }
 #box-2 a:hover{
